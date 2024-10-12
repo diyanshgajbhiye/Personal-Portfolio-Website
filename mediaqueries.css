@@ -46,10 +46,7 @@
         
     
     }
-    .imgg2{
-        margin-left: 250px;
-    }
-
+    
     .imgg{
         width: 275px;
         height: 275px;
@@ -82,7 +79,7 @@
     }
     footer nav{
         height: fit-content;
-        margin-bottom: 2rem;
+        margin-bottom: 5rem;
 
     }
     .about_container,
@@ -129,12 +126,15 @@
 
     }
     .imgg2{
-        margin-left: -5px;
+        margin-left: -35px;
+        transform: scale(0.8);
+        
     }
     .imgg{
         height: 200px;
         width: 200px;
         margin-left: -5px;
+        margin-top: -50px;
 
        
     }
